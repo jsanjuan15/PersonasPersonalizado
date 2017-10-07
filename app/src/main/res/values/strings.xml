@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Personas</string>
+    <string name="numero">No.</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="titulo">CREAR PERSONAS</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="mensaje_guardado">Persona Guardada Exitosamente!</string>
+    <string name="crear_personas">Crear</string>
+    <string name="listar_personas">Listar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo</string>
+    <string name="listado_listview">Listado Persona Listview</string>
+    <string name="cuantas_mujeres">Cuantas mujeres agregadas</string>
+
+    <string name="cuantos_hombres">Cuantos hombres agregados</string>
+    <string-array name="opciones">
+        <item>@string/crear_personas</item>
+        <item>@string/listar_personas</item>
+        <item>@string/cuantas_mujeres</item>
+        <item>@string/cuantos_hombres</item>
+        <item>@string/listado_listview</item>
+    </string-array>
+    <string-array name="sexo">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
+</resources>
